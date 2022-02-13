@@ -1,0 +1,12 @@
+
+*.asset
+*.meta
+*.cs
+*.json
+*.md
+*.asmdef
+*.txt
+*.anim
+*.uss
+*.yml
+*.shader
