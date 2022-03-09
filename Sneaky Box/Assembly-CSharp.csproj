@@ -37,6 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\BoxMovement.cs" />
+     <Compile Include="Assets\Scripts\EnemyMovement.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:/Program Files/2020.3.0f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
