@@ -10,3 +10,5 @@
 *.uss
 *.yml
 *.shader
+*.prefab
+Sneaky Box/Assets/Materials/Collectible.mat
